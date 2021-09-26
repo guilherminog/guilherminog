@@ -5,7 +5,7 @@ Welcome to my GitHub!
 ### 💻 A little about me
  - 🇧🇷 Brazilian guy 
  - 👶 Birthday 08.10.1986
- - 🏖️ I love summern and winter
+ - 🏖️ I love summer and winter
  - 🐩🐶 I have 1 little female dog 
 
   I'm starting in the world of backend programming development, before being an architect and urban planner by training I was in the area of ​​network infrastructure, database and data security. But I ended up following the world of architecture, but I never left technology aside, always implementing a database and data security service, also always trying to automate processes to improve the quality of life within the work in order to avoid health problems and also improve the work pace.
