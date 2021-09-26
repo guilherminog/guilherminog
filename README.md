@@ -16,8 +16,7 @@ Welcome to my GitHub!
 ### ☕ Get in touch
 
 [![twitch](https://img.shields.io/twitch/status/grizzyrp?style=for-the-badge)](https://www.twitch.tv/redj4ck4l)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]
-(https://www.facebook.com/guilhermino.gomes)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/guilhermino.gomes)
 [![ig](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/garchdesign/)
 [![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermino-gomes-88471151/)
 [![discord](https://img.shields.io/badge/-Discord-grey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9x8cGYWnJy)
