@@ -34,7 +34,7 @@ Welcome to my GitHub!
 
 ### ✔️ I'm currently learning
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) [![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![npm](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com) [![next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) [![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![npm](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com) [![next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 
 ### Github Stats
 ![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/matheuswells?style=for-the-badge) ![stars](https://img.shields.io/github/stars/matheuswells?style=for-the-badge) 
