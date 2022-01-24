@@ -10,7 +10,7 @@ Welcome to my GitHub!
 
   I'm starting in the world of backend programming development, before being an architect and urban planner by training I was in the area of ​​network infrastructure, database and data security. But I ended up following the world of architecture, but I never left technology aside, always implementing a database and data security service, also always trying to automate processes to improve the quality of life within the work in order to avoid health problems and also improve the work pace.
 
-  I plan to be a FullStack to be able to understand all the processes from BackEnd to FrontEnd, but what I really love is the base, the programming itself, the code behind a whole system that makes people have good experiences and good results, helping in everyday life, bringing quality of life to the user. And my desire is to be better every day, to improve as a person and also in my developer career.
+  I intend to learn as much as possible to be able to understand all the processes from the BackEnd to the FrontEnd and the data science that is something that has always fascinated me, but what I really love is the base, the data and the programming, the data and code behind everything that a system that makes people have good experiences and good results, helping in everyday life, bringing quality of life to the user. And my desire is to be better every day, to improve as a person and also in my career as a programmer and data scientist.
 
   
 ### ☕ Get in touch
