@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 ### 💻 A little about me
  - 🇧🇷 Brazilian guy 
- - 👶 Birthday 08.10.1986
+ - 👶 Birthday 10 August 1986
  - 🏖️ I love summer and winter
  - 🐩🐶 I have 1 little female dog 
 
@@ -24,9 +24,10 @@ Welcome to my GitHub!
 
 
 ###  👨‍💻 I'm working on
- - Personal projects and my portfolio website. 
- - Media Solutions
 
+ - Personal projects
+ - create small project cases
+ - Customizing my data science portfolio
 
 ### 📁 Dominated Technologies
 
@@ -34,7 +35,7 @@ Welcome to my GitHub!
 
 ### ✔️ I'm currently learning
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) [![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![npm](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com) [![next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) [![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![npm](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com) [![next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 
 ### Github Stats
 ![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/guilherminog?style=for-the-badge) ![stars](https://img.shields.io/github/stars/guilherminog?style=for-the-badge) 
@@ -45,8 +46,8 @@ Welcome to my GitHub!
 ---
 
 ### 🔥 How to reach me
- - 📧 Mail: guilhermino_g@gmail.com
+ - https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white: guilhermino_g@gmail.com
  - 🎧 Discord: redJack#8507
  - 📷 Instagram: @guilhermino.go
- - 📱 Telegram/WhatsApp : +55 21 991463183
+ - https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white : +55 21 991463183
  
