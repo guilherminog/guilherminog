@@ -30,7 +30,7 @@ Welcome to my GitHub!
 
 ### 📁 Dominated Technologies
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) [![arduino](https://img.shields.io/badge/-Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc) [![git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![javascript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com) [![html](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![css](https://img.shields.io/badge/-CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) [![arduino](https://img.shields.io/badge/-Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc) [![git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![javascript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com) [![html](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![css](https://img.shields.io/badge/-CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 
 ### ✔️ I'm currently learning
 
@@ -45,8 +45,8 @@ Welcome to my GitHub!
 ---
 
 ### 🔥 How to reach me
- - 📧 Mail: guilhermino_g@hotmail.com
+ - 📧 Mail: guilhermino_g@gmail.com
  - 🎧 Discord: redJack#8507
- - 📷 Instagram: @garchdesign
+ - 📷 Instagram: @guilhermino.go
  - 📱 Telegram/WhatsApp : +55 21 991463183
  
