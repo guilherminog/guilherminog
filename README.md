@@ -52,3 +52,5 @@ Welcome to my GitHub!
  - 📷 Instagram:            @guilhermino.go
  - 📱 whatsapp | Telegram : +55 21 991463183
  
+ 
+ <img src="https://komarev.com/ghpvc/?username=iguilherminog" alt="https://github.com/guilherminog" />
