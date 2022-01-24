@@ -46,8 +46,9 @@ Welcome to my GitHub!
 ---
 
 ### 🔥 How to reach me
- - https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white: guilhermino_g@gmail.com
- - 🎧 Discord: redJack#8507
- - 📷 Instagram: @guilhermino.go
- - https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white : +55 21 991463183
+ 
+ - 📧 e-Mail:               guilhermino_g@gmail.com
+ - 🎧 Discord:              redJack#8507
+ - 📷 Instagram:            @guilhermino.go
+ - 📱 whatsapp | Telegram : +55 21 991463183
  
