@@ -31,7 +31,7 @@ Welcome to my GitHub!
 
 
 ### 📁my data science course badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="58d2205c-7cf8-4fff-bfb5-aac7558a1ef2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src='https://www.credly.com/badges/58d2205c-7cf8-4fff-bfb5-aac7558a1ef2/public_url' />
 
 
 
