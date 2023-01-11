@@ -50,8 +50,6 @@ Welcome to my GitHub!
  
  - 📧 e-Mail:               guilhermino_g@gmail.com
  - 🎧 Discord:              redJack#8507
- - 📷 Instagram:            @guilhermino.go
- - 📱 whatsapp | Telegram : +55 21 991463183
  
  
  <img src="https://komarev.com/ghpvc/?username=iguilherminog" alt="https://github.com/guilherminog" />
