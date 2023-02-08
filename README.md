@@ -10,10 +10,10 @@ Welcome to my GitHub!
  - 🏖️ I love summer and winter
  - 🐩🐶 I have 1 little female dog 
 
--  👊 I am currently fully focused on understanding how to solve problems using data and machine learning.
--  💼 Urban Architect, Data Scientist, Dev & Professor.
--  💻 Experience with academic research, statistics, writing, algorithms and AI.
--  🔗 contact me: https://linktr.ee/guilhermino.go
+##### 👊 I am currently fully focused on understanding how to solve problems using data and machine learning.
+#####  💼 Urban Architect, Data Scientist, Dev & Professor.
+#####  💻 Experience with academic research, statistics, writing, algorithms and AI.
+#####  🔗 contact me: https://linktr.ee/guilhermino.go
   
 ### ☕ Get in touch
 
@@ -49,6 +49,5 @@ Welcome to my GitHub!
  
  - 📧 e-Mail:               guilhermino.gms@gmail.com
  - 🎧 Discord:              RedJack#9704
- - 
   
  <img src="https://komarev.com/ghpvc/?username=iguilherminog" alt="https://github.com/guilherminog" />
