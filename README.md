@@ -10,8 +10,8 @@ Welcome to my GitHub!
  - 🏖️ I love summer and winter
  - 🐩🐶 I have 1 little female dog 
 
-##### 👊 I am currently fully focused on understanding how to solve problems using data and machine learning.
-#####  💼 Urban Architect, Data Scientist, Dev & Professor.
+#####  👊 I am currently fully focused on understanding how to solve problems using data and machine learning.
+#####  💼 Data Scientist, Dev & Professor.
 #####  💻 Experience with academic research, statistics, writing, algorithms and AI.
 #####  🔗 contact me: https://linktr.ee/guilhermino.go
   
